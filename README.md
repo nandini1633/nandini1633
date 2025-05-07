@@ -1,8 +1,8 @@
-# hey i am nandini patil
+# Hi, I'm nandini patil 👋 💻
 
-an Electrical Engineering student at ADCET. </br>
-with a strong fundamental in cloud computing and DevOps.</br>
-I'm passionate about integrating technology with engineering solutions.</br>
+I'm electrical engineer student at ADECT 🎓.
+I’m expanding my skill set by learning DevOps tools and practices 🚀.
+I’m passionate about building efficient and scalable solutions ⚙️ and love exploring new technologies to grow as a developer 👨‍💻.
 
 
 
